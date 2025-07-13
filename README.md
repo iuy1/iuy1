@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-来自 [南京信息工程大学](https://www.nuist.edu.cn/) 的本科生
+- 来自 [南京信息工程大学](https://www.nuist.edu.cn/) 的本科生
 
-编程竞赛选手
-[luogu](https://www.luogu.com.cn/user/120033)
-[codeforces](https://codeforces.com/profile/uyi)
-[atcoder](https://atcoder.jp/users/iuyi)
+- 编程竞赛选手
+  - [leetcode](https://leetcode.cn/u/iuyi/)
+  - [洛谷](https://www.luogu.com.cn/user/120033)
+  - [codeforces](https://codeforces.com/profile/uyi)
+  - [atcoder](https://atcoder.jp/users/iuyi)
 
-qq 3093669578
+- 欢迎加 qq 来聊天 3093669578
 
-weixin r3780573
+- 微信 r3780573
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuy1&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
