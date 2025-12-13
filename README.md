@@ -15,16 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 来自 [南京信息工程大学](https://www.nuist.edu.cn/) 的本科生
+- 南京信息工程大学 本科
 
-- 编程竞赛选手
-  - [leetcode](https://leetcode.cn/u/iuyi/)
-  - [洛谷](https://www.luogu.com.cn/user/120033)
-  - [codeforces](https://codeforces.com/profile/uyi)
-  - [atcoder](https://atcoder.jp/users/iuyi)
+- 编程竞赛选手（已退役）
+  - icpc 区预赛 金
+  - astar 金
+  <!-- - [leetcode](https://leetcode.cn/u/iuyi/) -->
+  <!-- - [洛谷](https://www.luogu.com.cn/user/120033) -->
+  <!-- - [codeforces](https://codeforces.com/profile/uyi) -->
+  <!-- - [atcoder](https://atcoder.jp/users/iuyi) -->
 
-- 欢迎加 qq 来聊天 3093669578
+- 国内联系方式
+  - qq 3093669578
+  - 微信 r3780573
 
-- 微信 r3780573
+- 国外联系方式（不常看）
+  - [tg](https://t.me/iuy1i)
+  - [discord](https://discord.com/users/1264926096181166205)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuy1&layout=compact&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuy1&langs_count=16&exclude_repo=iuy1.github.io&theme=buefy)
