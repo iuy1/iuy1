@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 南京信息工程大学 本科
 
 - 编程竞赛选手（已退役）
-  - icpc 区预赛 金
+  - icpc 区域赛 金
   - astar 金
   <!-- - [leetcode](https://leetcode.cn/u/iuyi/) -->
   <!-- - [洛谷](https://www.luogu.com.cn/user/120033) -->
