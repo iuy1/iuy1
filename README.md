@@ -25,12 +25,10 @@ Here are some ideas to get you started:
   <!-- - [codeforces](https://codeforces.com/profile/uyi) -->
   <!-- - [atcoder](https://atcoder.jp/users/iuyi) -->
 
-- 国内联系方式
+- 联系方式
   - qq 3093669578
   - 微信 r3780573
 
-- 国外联系方式（不常看）
-  - [tg](https://t.me/iuy1i)
-  - [discord](https://discord.com/users/1264926096181166205)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuy1&langs_count=16&exclude_repo=iuy1.github.io&theme=buefy) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iuy1&langs_count=16&exclude_repo=iuy1.github.io&theme=buefy)
+![Metrics](/github-metrics.svg)
