@@ -17,13 +17,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            Joined GitHub 5 years ago
+                            Joined GitHub 6 years ago
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 54 users
+                            Followed by 55 users
                         </div>
                     </section>
                     <section>
@@ -33,7 +33,7 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            95 Commits
+                            92 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 130 users
+                            Following 140 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 2008 repositories
+                            Starred 2111 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -389,19 +389,19 @@
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
                             <div class="label" title="A database is a structured set of data held in a computer, usually a server.">database</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
                             <div class="label" title="Git is the most widely used version control system.">git</div>
                             <div class="label" title="Docker is a platform built for developers to build and run applications.">docker</div>
-                            <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
                             <div class="label" title="Deep learning is a subset of machine learning that uses multi-layered neural networks to learn representations from data.">deep learning</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
-                            <div class="label" title="Bitcoin, Go, Front end, Command-line interface, Vue.js, Chrome extension, TypeScript, Bash, Terminal, iOS, Rust, Kubernetes, Compiler, macOS, npm, Game engine, Windows, Kotlin, Cryptocurrency, Ethereum, Documentation, Minecraft, Vim, Font, OpenGL, Lua, Testing, Gradle, P2P, Package manager, Emacs, IPFS, Objective-C, Monero, Blockchain, Visual Studio Code, python3, awesome-list, Open Source, golang, language, Large Language Model, PowerShell, GitHub, Reverse Engineering, Neovim, GitHub CLI extension, Game Development, Godot, games, Svelte, Xcode, gamedev, MCP, Computer science, Solidity, Arch Linux, Clash, Cryptography, text-to-speech, c-plus-plus, tui, https, vuejs, Programming language, command-line, GUI, web3, microservices, c-sharp, static-site-generator, large-language-models, windows-11, Nix, WPF, Tutorial, containers, chinese, editor, webassembly, VS Code Extension, windows-10, wasm, Lisp, design-patterns, neovim-plugin, interview-questions, cross-platform, FFmpeg (Fast Forward Moving Picture Experts Group), vulkan, smart-contracts, roadmap, wallet, neural-networks, Canvas, gemini, OpenStreetMap, icons, kafka, SVG, Chromium, text-editor, Solana, file-manager, disassembler, competitive-programming, Vite, language-model, book, terminal-emulators, bilibili, flowchart, interview-practice, personal-finance, gpu, collaboration, tor, copilot, ide, Windows Subsystem for Android (WSA), Minecraft Server, rich-text-editor, vim-plugin, code-generation, Object–relational mapping, scientific-computing, shaders, Minecraft Mod, webgpu, Generator, ssr, whiteboard, password-manager, chess, homepage, diagrams, osx, glsl, emacs-lisp, build-tool, regex, rust-lang, Tree-sitter, zero-knowledge, linter, data-structure, intellij, concurrency, vscode-theme, benchmark, charts, Typst, exchange, metal, language-server-protocol, course, Unit testing, jvm, async, MariaDB, FabricMC, menubar, miniprogram, web-extension, cache, github-extension, eye-tracking, clipboard, lightning-network, jax, evm, language-server, profiling, lean4, fabric, readme-generator, formatter, presentation, gitignore, wsl2, swift-package-manager, jit, Internationalization (i18n), gateway, formal-verification, lsp, slides, terminal-emulator, uni-app, Lean, benchmarking, image-search, challenges, lexer, hammerspoon, coroutines, uniapp, codeforces, cargo, gpu-programming, time-tracking, emscripten, version-control, hlsl, qq, build, starship, plotting, certificates, v2rayn, zk-snarks, mpc, quantumult, mermaid, Instrumentation, clash-verge, lsp-server, localhost, jdk, cjk, render, arknights, nushell, Zero-knowledge proof, swift-package, markup, sqlite-extension, toml, lodash, Blue Archive, elliptic-curves, clash-verge-rev, minecraft-fabric, linting, zcash, cypher, sudo, wutheringwaves, altstore-source, contract, xmrig, yabai, yazi, zk, xmake, swiftpm, acid, yazi-plugin, text-encryption, gomoku, turing-machine, cranelift, wasm-bindgen, pyodide, vanity-address, innodb, singbox, typst-template, modrinth, atcoder, sokoban, randomx, clang-format, nodejs-library, zkvm, circom, stackful-coroutines, chinese-input-method, jwt-auth, vanity, hexadecimal, vscode-neovim, computability-theory, busy-beaver, cetz, rng, atcoder-library, snark">and 278 more...</div>
+                            <div class="label" title="Bitcoin, Go, Front end, Command-line interface, Vue.js, Chrome extension, TypeScript, Bash, Terminal, iOS, Rust, Kubernetes, Compiler, macOS, npm, Windows, Game engine, Kotlin, Cryptocurrency, Ethereum, Documentation, Minecraft, Vim, Font, OpenGL, Lua, Testing, Gradle, P2P, Package manager, Emacs, IPFS, Objective-C, Monero, Blockchain, Visual Studio Code, Flutter, python3, awesome-list, Open Source, golang, language, Large Language Model, PowerShell, GitHub, Reverse Engineering, Neovim, GitHub CLI extension, Game Development, Godot, games, Termux, MCP, Svelte, Xcode, gamedev, Computer science, Solidity, Clash, Arch Linux, Cryptography, text-to-speech, c-plus-plus, tui, https, vuejs, Programming language, command-line, GUI, web3, microservices, c-sharp, static-site-generator, large-language-models, windows-11, Tutorial, Nix, WPF, containers, chinese, editor, webassembly, windows-10, VS Code Extension, wasm, Lisp, design-patterns, neovim-plugin, interview-questions, cross-platform, FFmpeg (Fast Forward Moving Picture Experts Group), vulkan, roadmap, smart-contracts, wallet, Canvas, gemini, neural-networks, OpenStreetMap, icons, kafka, SVG, Chromium, text-editor, Solana, file-manager, disassembler, competitive-programming, Vite, book, language-model, terminal-emulators, bilibili, flowchart, interview-practice, personal-finance, gpu, collaboration, tor, copilot, Windows Subsystem for Android (WSA), ide, Minecraft Server, code-generation, vim-plugin, rich-text-editor, Object–relational mapping, scientific-computing, shaders, Minecraft Mod, webgpu, Generator, ssr, whiteboard, password-manager, homepage, chess, diagrams, osx, Tree-sitter, glsl, emacs-lisp, build-tool, regex, rust-lang, zero-knowledge, adb, linter, data-structure, intellij, color-scheme, concurrency, Unit testing, Typst, exchange, vscode-theme, benchmark, course, charts, metal, language-server-protocol, MariaDB, jvm, FabricMC, async, miniprogram, menubar, web-extension, cache, clipboard, github-extension, eye-tracking, lightning-network, jax, lean4, evm, language-server, profiling, fabric, readme-generator, presentation, formatter, gitignore, wsl2, swift-package-manager, jit, Internationalization (i18n), gateway, formal-verification, lsp, slides, terminal-emulator, uni-app, Lean, benchmarking, image-search, challenges, nixpkgs, lexer, hammerspoon, coroutines, uniapp, codeforces, cargo, gpu-programming, qq, time-tracking, version-control, emscripten, hlsl, vulkan-api, build, starship, v2rayn, plotting, zk-snarks, certificates, mpc, clash-verge, mermaid, Instrumentation, quantumult, lsp-server, localhost, jdk, linux-containers, home-manager, cjk, nushell, render, arknights, Zero-knowledge proof, markup, swift-package, sqlite-extension, flakes, Blue Archive, toml, lodash, darwin, elliptic-curves, linting, clash-verge-rev, minecraft-fabric, launchd, zcash, cypher, sudo, wutheringwaves, altstore-source, contract, xmrig, yabai, yazi, zk, xmake, wox, swiftpm, acid, yazi-plugin, text-encryption, gomoku, turing-machine, modrinth, cranelift, wasm-bindgen, atcoder, pyodide, vanity-address, innodb, singbox, typst-template, nix-modules, sokoban, randomx, clang-format, nodejs-library, zkvm, circom, stackful-coroutines, chinese-input-method, jwt-auth, vanity, hexadecimal, vscode-neovim, computability-theory, busy-beaver, cetz, rng, atcoder-library, snark">and 291 more...</div>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jul 2026, 10:45:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2026, 10:04:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
